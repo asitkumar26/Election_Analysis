@@ -61,3 +61,5 @@ for voting_dict in voting_data:
     print(voting_dict['registered_voters'])
     #for item,values in voting_dict.items():
      #   'print (values)        
+
+     
