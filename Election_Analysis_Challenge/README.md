@@ -47,7 +47,8 @@ All the results are captured in 'election_analysis.txt' inside 'Analysis' folder
 ## Election Audit Summary
 
 Summary of Election Audit is as follows:
-        1. Total votes casted across all counties is 369,711.
-        2. Largest county voting turnout is 'Denver'.
-        3. Winner of the election is 'Diana DeGette'. She has got 73.8% of votes to become the winner.        
+
+        Total votes casted across all counties is 369,711.
+        Largest county voting turnout is 'Denver'.
+        Winner of the election is 'Diana DeGette'. She has got 73.8% of votes to become the winner.        
 
