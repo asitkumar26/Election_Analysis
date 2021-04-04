@@ -52,7 +52,7 @@ Winning Percentage: 73.8%
 
 All the results are captured in 'election_analysis.txt' inside 'Analysis' folder. 
 
-Add the URL
+https://github.com/asitkumar26/Election_Analysis/blob/master/Election_Analysis_Challenge/Analysis/election_analysis.txt
 
 ## Election Audit Summary
 
