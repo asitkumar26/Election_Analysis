@@ -18,36 +18,36 @@ Total Votes that have been casted across all three counties.
 ### County Votes
 Votes that have been casted in different counties and how much vote share each county has. 
 
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+        Jefferson: 10.5% (38,855)
+        Denver: 82.8% (306,055)
+        Arapahoe: 6.7% (24,801)
 
 County that has largest vote share is
 
-Largest county Turnout: Denver
+        Largest county Turnout: Denver
 
 ### Candidate Votes
 Votes that have been casted to each candidate and their vote percentage.
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+       Charles Casper Stockham: 23.0% (85,213)
+       Diana DeGette: 73.8% (272,892)
+       Raymon Anthony Doane: 3.1% (11,606)
 
 ### Winner
 Finally Winner of the election. 
 
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+       Winner: Diana DeGette
+       Winning Vote Count: 272,892
+       Winning Percentage: 73.8%
 
 All the results are captured in 'election_analysis.txt' inside 'Analysis' folder. 
 
-https://github.com/asitkumar26/Election_Analysis/blob/master/Election_Analysis_Challenge/Analysis/election_analysis.txt
+        https://github.com/asitkumar26/Election_Analysis/blob/master/Election_Analysis_Challenge/Analysis/election_analysis.txt
 
 ## Election Audit Summary
 
 Summary of Election Audit is as follows:
-1. Total votes casted across all counties is 369,711.
-2. Largest county voting turnout is 'Denver'.
-3. Winner of the election is 'Diana DeGette'. She has got 73.8% of votes to become the winner.        
+        1. Total votes casted across all counties is 369,711.
+        2. Largest county voting turnout is 'Denver'.
+        3. Winner of the election is 'Diana DeGette'. She has got 73.8% of votes to become the winner.        
 
